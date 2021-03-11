@@ -2,4 +2,4 @@
 
 ## Homepage
 
-![](images/homepag.png)
+![](images/homepage.png)
