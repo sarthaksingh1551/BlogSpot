@@ -1,5 +1,5 @@
 # BlogSpot
 
-# Homepage
+## Homepage
 
-![](F:/New folder/homepage.png)
+![](images/homepage.png)
